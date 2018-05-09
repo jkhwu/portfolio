@@ -37,6 +37,7 @@ body {
 
 body {
     background-image: url("../images/shattered/shattered.png");
+    /* background-color: #e4ebf0; */
     background-size: 20%;
     font-family: 'Karla', sans-serif;
     color: #6f7984;
